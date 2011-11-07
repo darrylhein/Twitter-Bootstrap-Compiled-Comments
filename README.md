@@ -1,7 +1,7 @@
 Twitter Bootstrap CSS
 =====================
 
-This is just the compiled, formatted and commented code from [Twitter Bootstap](http://twitter.github.com/bootstrap/). We have no rights to the code and are not responsible for any problems. Please contact them with questions.
+This is just the compiled, formatted and commented code from [Twitter Bootstap](http://twitter.github.com/bootstrap/). We have no rights to the code and are not responsible for any problems. Please contact them with questions. See their page for documention.
 
 The source directory contains the compiled files from the lib directory in the Twitter Bootstrap. They have been compiled together and then separated out, allowing you to only include the CSS you need.
 
